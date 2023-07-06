@@ -46,7 +46,7 @@ npm run deploy
 ## Authors
 
 * **[Ahana Mukherjee](https://github.com/ahana-mukherjee)**
-* **[Avi Agnihotri](https://github.com/avi-agnihotri)**
+* **[Avi Agnihotri](https://github.com/AviAgnihotri)**
 
 
 ## License
