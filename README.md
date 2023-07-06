@@ -1,7 +1,5 @@
 # CodeWeave
 
-[![Build Status](https://travis-ci.org/ahana-mukherjee/CodeWeave.svg?branch=master)](https://travis-ci.org/ahana-mukherjee/CodeWeave)
-[![Coverage Status](https://coveralls.io/repos/github/ahana-mukherjee/CodeWeave/badge.svg?branch=master)](https://coveralls.io/github/ahana-mukherjee/CodeWeave?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
